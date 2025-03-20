@@ -537,4 +537,3 @@ app.get("/places/:id/comments", async (req, res) => {
 app.listen(4000,() => {
   console.log('http://localhost:4000')
 });
-// 5BtZOM0hBU1JMcRE // mongo password
